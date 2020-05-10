@@ -1,0 +1,8 @@
+name: callysto
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
